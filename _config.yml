@@ -1,7 +1,7 @@
 # Site settings
 title: Trisasnava
 description: A civilized, open and free organization
-icon: favicon.ico
+icon: /favicon.ico
 # url: "http://localhost:3000/"
 url: "https://trisasnava.org"
 
