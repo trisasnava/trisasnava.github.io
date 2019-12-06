@@ -1,0 +1,17 @@
+# Site settings
+title: Trisasnava
+description: A civilized, open and free organization
+icon: favicon.ico
+# url: "http://localhost:3000/"
+url: "https://trisasnava.org"
+
+# User settings
+email: trisasnava@trisasnava.org
+twitter: trisasnava
+github: trisasnava
+
+# # Google-analytics
+# google-analytics:
+#   id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
